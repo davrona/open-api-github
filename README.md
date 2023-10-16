@@ -100,17 +100,3 @@ end
 ```
 
 For more information, see the documentation for `GitHub.Testing`.
-
-## Contributing
-
-Because this library uses a code generator for the majority of its mass, there are two modes of contribution.
-Please consider these when creating issues or opening pull requests:
-
-* If the generated code is out of date, the fix may be as simple as running `mix gen.api` using the latest OpenAPI description.
-* If the client isn't working as expected, the fix may be more involved and require careful thought and versioning.
-
-For more on what this means to you as a contributor, please see the [contribution guidelines](CONTRIBUTING.md).
-
-## Sponsorship
-
-If you like this library or it makes you money, please consider [sponsoring](https://github.com/sponsors/aj-foster).
